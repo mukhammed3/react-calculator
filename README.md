@@ -1,3 +1,3 @@
 # React Calculator
 
-[aliev.tech](https://aliev.tech).
+[aliev.tech](https://aliev.tech)
