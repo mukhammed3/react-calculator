@@ -1,3 +1,5 @@
 # React Calculator
 
-[aliev.tech](https://aliev.tech)
+[Demo ✨](https://calculator333.netlify.app/)
+
+
